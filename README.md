@@ -2,7 +2,7 @@
 A custom heart-shaped toggle for marking favorites, built in SwiftUI. Tap the knob and it slides along the heart as it fills with red.
 
 <div align="center">
-  <img src="docs/demo.webp" width="280" alt="Tapping the knob so it slides across the heart, which turns red and then back to gray" />
+  <img src="docs/demo.webp" width="300" alt="Tapping the knob so it slides across the heart, which turns red and then back to gray" />
 </div>
 
 ### It's all in the details:
